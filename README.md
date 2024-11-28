@@ -8,4 +8,4 @@ media.circ: faz o cálculo de media de dois valores media = (x+y)/2 se for maior
 
 contador_assincrono.circ: conta do número 3 até o 73 utilizando flip-flop no modo assincrono
 
-contador_sincrono.circ: conta de forma alternada entre os números 1 -> 3 -> 4 -> 7 -> 11 -> 14 -> 15 -> início.
+contador_sincrono.circ: conta de forma alternada entre os números 1 -> 3 -> 4 -> 7 -> 11 -> 14 -> 15 -> início. (contém um pdf de diagrama de estados com as tabelas calculadas)
